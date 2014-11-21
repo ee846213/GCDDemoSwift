@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     var belowHP:Int = 1000
     var baseHP:Int = 3000
     var alertView:UIAlertView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
        
